@@ -1,0 +1,59 @@
+/* h1 {
+    font-size: 35px;
+    padding: 0 8rem;;
+  }
+
+body{
+    padding: 0 10rem;
+}
+
+.imagem{
+    width: 20%;
+    border-radius: 2rem;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.projectsection {
+    font-size: 20px;
+    padding: 0 8rem;
+    letter-spacing: 1px;
+    margin: 0px;
+}
+
+.detalhes{
+    font-size: 15px;
+    text-align: 6;
+    /*border: 1px solid black; */
+    /* margin-top: 20;
+}
+
+.space{
+    margin-bottom: 40px;
+}
+
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border:0; 
+    border-top: 1px solid rgba(16, 12, 12, 0.737)
+}
+
+.section{
+    padding: 0 2.3rem;
+} */ 
+
+#mais{
+    display: none;
+}
+
+.settingsbutton{
+    color:black;
+    border-radius: 1.5rem;
+    margin-top: 5%;
+}
+  
