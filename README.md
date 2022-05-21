@@ -7,3 +7,5 @@ Minhas entregas estão definidas aqui:
 <p>10/05/2022 - Entrega tutorial Etapa 4<p/>
 <p>11/05/2022 - Entrega personalização etapa 3/
   currículo com javaScript</p>
+<p>19/05/2022 - Entrega tutorial Etapa 5</p>
+<p>21/05/2022 - Entrega do currículo com JQuery</p>
