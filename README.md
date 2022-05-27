@@ -9,3 +9,4 @@ Minhas entregas estão definidas aqui:
   currículo com javaScript</p>
 <p>19/05/2022 - Entrega tutorial Etapa 5</p>
 <p>21/05/2022 - Entrega do currículo com JQuery</p>
+<p>22/05/2022 - Entrega 3 exercícios obrigatórios</p>
