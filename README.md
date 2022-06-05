@@ -12,3 +12,5 @@ Minhas entregas estão definidas aqui:
 <p>22/05/2022 - Entrega 3 exercícios obrigatórios</p>
 <p>27/05/2022 - Entrega do tutorial etapa 6</p>
 <p>27/05/2022 - Entrega do currículo com banco de dados</p>
+<p>30/05/2022 - Entrega do tutorial Etapa 7</p>
+<p>03/05/2022 - Entrega do currículo com CRUD</p>
