@@ -36,17 +36,44 @@
             <h1>Exercício 3</h1>
         </div>
         <div>
-            <p id="telefone"></p>
-            número telefone: <input type="text" placeholder="(XX)xxxxx-xxxx" id="telefone" />
+            número telefone: <input type="text" placeholder="(XX)xxxxx-xxxx" id="telefone" maxlength="14" />
             <button onclick="telefone()">Validar</button>
         </div>
 
-        <div>
+        <div> 
             <h1>Exercício 4</h1>
+        </div>
+        <div>
+            Quantidade de pessoas: <input type="text"  id="pessoas" /> 
+            
+                <p>Escolha o período:</p>
+                <div>
+                    <div>
+                        <input type="checkbox" id="diurno" name="horário" checked>
+                        <label for="diurno">Diurno</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="noturno" name="horário">
+                        <label for="noturno">Noturno</label>
+                    </div>
+                    <div>
+                        <p>Resultado:<span id="total"></span></p>
+                        <button onclick="valortotal()">Resultado</button>
+                </div>
+            </div>
         </div>
 
         <div>
             <h1>Exercício 5</h1>
+        </div>
+        <div>
+            Quantidade de alunos: <input type="text"  id="alunos" />
+        </div>
+        <div>
+            nota da prova: <input type="text" id="prova">
+        </div>
+        <div>
+            nota do trabalho: <input type="text" id="trabalho">
         </div>
         </center>
         <script src="script.js"></script>
