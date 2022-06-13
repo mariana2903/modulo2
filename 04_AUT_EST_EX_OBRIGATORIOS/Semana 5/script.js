@@ -42,6 +42,7 @@ function resultado2() {
 // Exercício 3
 let lista = document.getElementById("lista");
 let resultList = document.getElementById("resultado3");
+
 function ordenarlista() {
   let list = lista.value.split(",");
   list = list.map((item) => parseInt(item));
