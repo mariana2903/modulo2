@@ -14,5 +14,6 @@ Minhas entregas estão definidas aqui:
 <p>27/05/2022 - Entrega do currículo com banco de dados</p>
 <p>30/05/2022 - Entrega do tutorial Etapa 7</p>
 <p>03/05/2022 - Entrega do currículo com CRUD</p>
-<p>05/06/2022 - Entrega dos exercícios com algoritmos semana 5</p>
+<p>05/06/2022 - Entrega dos exercícios com algoritmos semana 7</p>
+<p>12/06/2022 - Entrega do currículo semana 8</p>
 <p>19/06/2022 - Entrega dos exercícios com algoritmos semana 9</p>
